@@ -1,4 +1,4 @@
 pandas==0.25.1
 requests==2.22.0
 Scrapy==1.8.2
-lxml==4.6.5
+lxml==4.9.1
